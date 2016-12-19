@@ -9,7 +9,8 @@ class Greeting {
 	}
 
 	def print() {
-		echo "Hello my friend $name"
+		def greet = "Hello my friend " + this.name
+		echo greet
 	}
 
 }
