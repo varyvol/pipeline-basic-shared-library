@@ -1,4 +1,1 @@
-this.SPANISH_NAME = 'Juan'
-def getFoo() {
-    return this.foo;
-}
+def SPANISH_NAME = 'Juan'
