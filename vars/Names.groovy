@@ -1,0 +1,2 @@
+SPANISH_NAME = 'Juan'
+ENGLISH_NAME= 'John'
