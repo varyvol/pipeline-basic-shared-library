@@ -1,2 +1,2 @@
-def SPANISH_NAME = 'Juan'
-def ENGLISH_NAME= 'John'
+this.SPANISH_NAME = 'Juan'
+this.ENGLISH_NAME= 'John'
