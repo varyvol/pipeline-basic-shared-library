@@ -1,6 +1,7 @@
-def setSpanishName() {
+def setSpanishName(name) {
+	this.spanishName = name
 }
 
 def getSpanishName() {
-    return 'Juan'
+    return this.spanishName
 }
