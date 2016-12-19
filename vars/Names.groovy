@@ -1,2 +1,4 @@
 this.SPANISH_NAME = 'Juan'
-this.ENGLISH_NAME= 'John'
+def getFoo() {
+    return this.foo;
+}
