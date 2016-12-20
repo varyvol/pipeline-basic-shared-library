@@ -1,7 +1,4 @@
-def setSpanishName(name) {
-	this.spanishName = name
-}
-
-def getSpanishName() {
-    return this.spanishName
+def printGreeting(name) {
+	def greet = "Hello from vars my friend " + name
+	echo greet
 }
